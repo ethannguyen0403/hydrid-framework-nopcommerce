@@ -110,7 +110,7 @@ public class User_01_Register_Login {
 		driver.findElement(By.cssSelector("button#register-button")).click();
 
 		Assert.assertEquals(driver.findElement(By.cssSelector("span#Password-error")).getText(),
-				"Password must meet the following rules:\rmust have at least 6 characters");
+				"Password must meet the following rules:\nmust have at least 6 characters");
 	}
 
 	@Test

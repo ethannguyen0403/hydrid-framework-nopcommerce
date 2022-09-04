@@ -16,10 +16,6 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class BasePage {
-	
-	public static BasePage getBasePage() {
-		return new BasePage();
-	}
 
 	public void openPageUrl(WebDriver driver, String linkUrl) {
 		driver.get(linkUrl);
@@ -204,16 +200,16 @@ public class BasePage {
 		}
 	}
 
-	public void isControlDisplayed(WebDriver driver, String locator) {
-		getWebElement(driver, locator).isDisplayed();
+	public boolean isControlDisplayed(WebDriver driver, String locator) {
+		return getWebElement(driver, locator).isDisplayed();
 	}
 
-	public void isControlSelected(WebDriver driver, String locator) {
-		getWebElement(driver, locator).isSelected();
+	public boolean isControlSelected(WebDriver driver, String locator) {
+		return getWebElement(driver, locator).isSelected();
 	}
 
-	public void isControlEnabled(WebDriver driver, String locator) {
-		getWebElement(driver, locator).isEnabled();
+	public boolean isControlEnabled(WebDriver driver, String locator) {
+		return getWebElement(driver, locator).isEnabled();
 	}
 
 	public void switchToFrame(WebDriver driver, String locator) {

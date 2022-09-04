@@ -103,7 +103,7 @@ public class User_02_Apply_BasePage_II {
 		basePage.clickToElement(driver, "//button[@id='register-button']");
 		
 		Assert.assertEquals(basePage.getTextElement(driver, "//span[@id='Password-error']"),
-				"Password must meet the following rules:\rmust have at least 6 characters");
+				"Password must meet the following rules:\nmust have at least 6 characters");
 	}
 
 	@Test
