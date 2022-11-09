@@ -12,15 +12,15 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import common.BasePage;
-import pageObject.HomePageObject;
-import pageObject.RegisterPageObject;
+import pageObject.user.UserHomePageObject;
+import pageObject.user.UserRegisterPageObject;
 
 public class User_03_Page_Object_Register {
 	private WebDriver driver;
 	private String projectPath = System.getProperty("user.dir");
 	private String addressEmail;
-	private HomePageObject homePage;
-	private RegisterPageObject registerPage;
+	private UserHomePageObject homePage;
+	private UserRegisterPageObject registerPage;
 
 	@BeforeClass
 	public void beforeClass() {
@@ -31,8 +31,8 @@ public class User_03_Page_Object_Register {
 		driver.get("https://demo.nopcommerce.com/");
 		
 		addressEmail = "automation.Phuong" + generation() + "@mail.tivi";
-		homePage = new HomePageObject(driver);
-		registerPage = new RegisterPageObject(driver);
+		homePage = new UserHomePageObject(driver);
+		registerPage = new UserRegisterPageObject(driver);
 	}
 
 	@Test

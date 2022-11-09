@@ -24,7 +24,7 @@ public class User_02_Apply_BasePage_I {
 		System.setProperty("webdriver.gecko.driver", projectPath + "/browserDriver/geckodriver");
 		driver = new FirefoxDriver();
 
-		basePage = new BasePage();
+//		basePage = new BasePage();
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 		driver.manage().window().maximize();
 		basePage.openPageUrl(driver, "https://demo.nopcommerce.com/");

@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <suite name="NopCommerce">
 
+<listeners>
+	<listener class-name="common.MethodListener"></listener>
+	<!-- <listener class-name="reportConfig.ReportNGListener"></listener> -->
+	<!-- <listener class-name="reportConfig.ExtentTestListener"></listener> -->
+	<listener class-name="reportConfig.AllureTestListener"></listener>
+	<!-- <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+	<listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener> -->
+</listeners>
+
   <test name="Run on Firefox">
   <parameter name="browser" value="firefox"/>
   	<classes>
-  		<class name='com.nopcommerce.user.User_04_Multiple_Browser'/> 
+  		<class name='com.nopcommerce.user.User_12_Allure'/> 
   	</classes>
   </test> 
   

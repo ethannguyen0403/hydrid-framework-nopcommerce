@@ -13,55 +13,11 @@
 	</classpathentry>
 	<classpathentry exported="true" kind="lib" path="Libraries/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry exported="true" kind="lib" path="Libraries/testng-6.14.3.jar" sourcepath="Libraries/testng-6.14.3.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/bcpkix-jdk15on-1.64.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/bcprov-jdk15on-1.64.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/checker-qual-3.8.0.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/commons-codec-1.13.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/commons-compress-1.20.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/commons-io-2.6.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/commons-lang-2.6.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/dec-0.1.2.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/docker-java-3.2.11.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/docker-java-api-3.2.11.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/docker-java-core-3.2.11.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/docker-java-transport-3.2.11.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/docker-java-transport-httpclient5-3.2.11.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/error_prone_annotations-2.5.1.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/failureaccess-1.0.1.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/gson-2.8.8.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/guava-30.1.1-jre.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/httpclient5-5.0.3.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/httpcore5-5.0.2.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/j2objc-annotations-1.3.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/jackson-annotations-2.10.3.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/jackson-core-2.10.3.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/jackson-databind-2.10.3.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/jcl-over-slf4j-1.7.30.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/jna-5.8.0.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/jsoup-1.14.2.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/jsr305-3.0.2.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/slf4j-api-1.7.32.jar"/>
-	<classpathentry kind="lib" path="WebdriverManager/WebDriverManager 5.0.2/webdrivermanager-5.0.2.jar"/>
-	<classpathentry kind="lib" path="WebDriverManager 4.2.0/commons-codec-1.13.jar"/>
-	<classpathentry kind="lib" path="WebDriverManager 4.2.0/commons-collections4-4.3.jar"/>
-	<classpathentry kind="lib" path="WebDriverManager 4.2.0/commons-compress-1.20.jar"/>
-	<classpathentry kind="lib" path="WebDriverManager 4.2.0/commons-io-2.7.jar"/>
-	<classpathentry kind="lib" path="WebDriverManager 4.2.0/commons-lang3-3.11.jar"/>
-	<classpathentry kind="lib" path="WebDriverManager 4.2.0/gson-2.8.6.jar"/>
-	<classpathentry kind="lib" path="WebDriverManager 4.2.0/httpclient5-5.0.1.jar"/>
-	<classpathentry kind="lib" path="WebDriverManager 4.2.0/httpcore5-5.0.1.jar"/>
-	<classpathentry kind="lib" path="WebDriverManager 4.2.0/jarchivelib-1.0.0.jar"/>
-	<classpathentry kind="lib" path="WebDriverManager 4.2.0/jsoup-1.13.1.jar"/>
-	<classpathentry kind="lib" path="WebDriverManager 4.2.0/slf4j-api-1.7.30.jar"/>
-	<classpathentry kind="lib" path="WebDriverManager 4.2.0/webdrivermanager-4.2.0.jar"/>
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/bcpkix-jdk15on-1.64.jar"/>
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/bcprov-jdk15on-1.64.jar"/>
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/checker-qual-3.8.0.jar"/>
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/commons-codec-1.13.jar"/>
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/commons-compress-1.20.jar"/>
-	<classpathentry kind="lib" path="WebDriverManager 5.0.2/commons-io-2.6.jar"/>
-	<classpathentry kind="lib" path="WebDriverManager 5.0.2/commons-lang-2.6.jar"/>
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/dec-0.1.2.jar"/>
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/docker-java-3.2.11.jar"/>
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/docker-java-api-3.2.11.jar"/>
@@ -78,13 +34,75 @@
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/jackson-annotations-2.10.3.jar"/>
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/jackson-core-2.10.3.jar"/>
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/jackson-databind-2.10.3.jar"/>
-	<classpathentry kind="lib" path="WebDriverManager 5.0.2/jcl-over-slf4j-1.7.30.jar"/>
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/jna-5.8.0.jar"/>
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/jsoup-1.14.2.jar"/>
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/jsr305-3.0.2.jar"/>
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/slf4j-api-1.7.32.jar"/>
 	<classpathentry kind="lib" path="WebDriverManager 5.0.2/webdrivermanager-5.0.2.jar"/>
+	<classpathentry kind="lib" path="libLog4j/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libExtentV5/extentreports-5.0.8.jar"/>
+	<classpathentry kind="lib" path="libExtentV5/freemarker-2.3.30.jar"/>
+	<classpathentry kind="lib" path="libExtentV5/lombok-1.18.12.jar"/>
+	<classpathentry kind="lib" path="libExtentV5/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="libExtentV5/rxjava-3.0.4.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/allure1-model-1.0.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/allure-commandline-2.13.6.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/allure-generator-2.13.6.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/allure-model-2.13.0.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/allure-plugin-api-2.13.6.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/commons-text-1.3.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/flexmark-0.50.36.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/flexmark-util-0.50.36.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/jackson-dataformat-xml-2.9.8.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/jackson-dataformat-yaml-2.9.8.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/jackson-module-jaxb-annotations-2.9.8.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/javax.activation-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/jaxb-api-2.3.1.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/jaxb-utils-1.0.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/jcommander-1.78.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/jetty-http-9.4.20.v20190813.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/jetty-io-9.4.20.v20190813.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/jetty-server-9.4.20.v20190813.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/jetty-util-9.4.20.v20190813.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/opencsv-4.6.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/properties-2.0.RC5.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/slf4j-log4j12-1.7.28.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/snakeyaml-1.23.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/stax2-api-3.1.4.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/tika-core-1.22.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/woodstox-core-5.0.3.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/commons-beanutils-1.9.3.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/httpclient-4.5.9.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/httpcore-4.4.11.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/allure-java-commons-2.13.5.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/allure-model-2.13.5.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/allure-testng-2.13.5.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/aspectjlib-1.6.2.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/aspectjrt-1.9.8.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/aspectjtools-1.9.8.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/aspectjweaver-1.9.8.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/bsh-2.0b6.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/jcommander-1.72.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/joor-java-8-0.9.10.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="libAllureReport/tika-core-1.20.jar"/>
+	<classpathentry kind="lib" path="libLog4j/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="libLog4j/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="libLog4j/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="libReportNG/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="libReportNG/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="libReportNG/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="libReportNG/velocity-1.4.jar"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

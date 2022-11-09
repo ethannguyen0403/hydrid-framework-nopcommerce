@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="NopCommerce">
+
+<listeners>
+	<listener class-name="common.MethodListener"></listener>
+</listeners>
+
+<parameter name="url" value="https://blueimp.github.io/jQuery-File-Upload/"/>
+  <test name="Run on Chrome">
+  <parameter name="browser" value="chrome"/>
+  	<classes>
+  		<class name='com.jquery.datatable.User_11_Assert_Verify'/> 
+  	</classes>
+  </test> 
+  
+  <test name="Run on Firefox">
+  <parameter name="browser" value="firefox"/>
+  	<classes>
+  		<class name='com.jquery.datatable.User_11_Assert_Verify'/> 
+  	</classes>
+  </test>  
+  
+</suite> 
